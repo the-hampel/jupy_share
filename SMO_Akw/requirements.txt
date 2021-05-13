@@ -3,3 +3,5 @@ matplotlib
 ipywidgets
 jupyter_contrib_nbextensions
 ipympl
+nodejs
+nbinteract
